@@ -5,8 +5,7 @@
 The UHD4k-RR and UHD8k-RR datasets are released under (CC BY-NC-ND) license.
 
 ## Website
-To explore more
-https://liar-zzy.github.io/Benchmarking-UHD-SIRR/
+To explore more,please click https://liar-zzy.github.io/Benchmarking-UHD-SIRR/
 
 ## UHD4k-RR:4K Resolution Datasets
 
