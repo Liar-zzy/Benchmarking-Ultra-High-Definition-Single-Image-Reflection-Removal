@@ -1,5 +1,13 @@
 # Benchmarking-Ultra-High-Definition-Single-Image-Reflection-Removal
 
+## To-do
+
+- [x] Code For Train & Test
+- [ ] Simplified and readable code. 
+- [ ] Our's 4k and 8k checkpoint.
+- [ ] Detailed guide on dataset usage.
+- [ ] More ...
+
 ## Train
 
 ### 4k
