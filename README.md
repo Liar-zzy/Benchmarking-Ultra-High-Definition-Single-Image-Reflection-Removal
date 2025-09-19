@@ -58,13 +58,6 @@ Google Drive To be released.
 If you think this work is useful for your research, please cite the folling paper.
 
 ```
-@misc{zhang2023benchmarking,
-      title={Benchmarking Ultra-High-Definition Image Reflection Removal}, 
-      author={Zhenyuan Zhang and Zhenbo Song and Kaihao Zhang and Wenhan Luo and Zhaoxin Fan and Jianfeng Lu},
-      year={2023},
-      eprint={2308.00265},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+To Be Released.
 
 ```
